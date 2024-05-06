@@ -1,4 +1,4 @@
-# medmate
+# MedMate-(Smart Medicine box)
 
 A new Flutter project.
 
