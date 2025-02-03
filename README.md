@@ -2,20 +2,12 @@
 
 
 
-A new Flutter project.
+  # Technologies Used
+- Flutter – For developing the cross-platform mobile app
+- Firebase – For real-time data synchronization between the app and the smart box
+- Embedded System (Microcontroller) – To control the smart box mechanism
+- Bluetooth/Wi-Fi Module – For communication between the app and the box
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 https://github.com/user-attachments/assets/2e9abc60-1e6d-4438-8d4b-8fbcef8b621b
