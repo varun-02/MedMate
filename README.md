@@ -1,4 +1,5 @@
 # MedMate-(Smart Medicine box)
+Medmate is an automated smart medicine box that opens at the scheduled time of medicine intake. It is connected to a mobile app via Firebase, ensuring real-time synchronization. Users receive notifications, and the box opens automatically when it’s time to take their medication.
 
 
 
